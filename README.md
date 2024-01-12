@@ -18,6 +18,7 @@ Outside every directory there are three files:
 ## The dataset
 
 Our datasets, SMS Spam Collection and Spam-Ham Dataset are two collection of spam and not-spam SMSs and e-mails. Every sample has two features: the target features, "ham" or "spam" in order to define if a text is considered not-spam or spam, and the main features that contains the text.
+
 ![dataset](https://i.ibb.co/xFWLtR0/Screenshot-2024-01-12-alle-09-25-10.png)
 
 ## spamBERT architecture
