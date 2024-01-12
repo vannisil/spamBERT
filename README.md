@@ -33,9 +33,3 @@ The interface of our project is the following:
 
 - [Davide Abbattista](https://www.github.com/davide-abbattista)
 - [Giovanni Silvestri](https://www.github.com/vannisil)
-
-## Authors
-
-- [Giovanni Silvestri](https://www.github.com/vannisil)
-- [Davide Abbattista](https://www.github.com/davide-abbattista)
-
