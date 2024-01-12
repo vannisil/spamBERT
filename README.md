@@ -34,11 +34,6 @@ The interface of our project is the following:
 - [Davide Abbattista](https://www.github.com/davide-abbattista)
 - [Giovanni Silvestri](https://www.github.com/vannisil)
 
-## Documentation
-
-You can read the complete documentation at [this link](https://drive.google.com/file/d/1PjbH4C5pEDCSzFhB6YGW-dFH3mL-3fwI/view?usp=sharing)
-
-
 ## Authors
 
 - [Giovanni Silvestri](https://www.github.com/vannisil)
